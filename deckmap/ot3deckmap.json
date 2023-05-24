@@ -1,0 +1,645 @@
+{
+  "name": "svg",
+  "type": "element",
+  "value": "",
+  "attributes": {
+    "version": "1.1",
+    "id": "Layer_1",
+    "xmlns": "http://www.w3.org/2000/svg",
+    "xmlns:xlink": "http://www.w3.org/1999/xlink",
+    "x": "0px",
+    "y": "0px",
+    "viewBox": "0 0 660 506.7",
+    "style": "enable-background:new 0 0 660 506.7;",
+    "xml:space": "preserve"
+  },
+  "children": [
+    {
+      "name": "style",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "type": "text/css"
+      },
+      "children": [
+        {
+          "name": "",
+          "type": "text",
+          "value": "\n.st0{fill:#CCCCCC;}\n.st1{fill:none;stroke:#16212D;stroke-width:3.2047;stroke-opacity:0.7;}\n.st2{fill:none;stroke:#16212D;stroke-width:3.156;stroke-opacity:0.7;}\n",
+          "attributes": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M4.2,506.6h239c2.3,0,4.2-1.9,4.2-4.2v-70c0-2.3-1.9-4.2-4.2-4.2H4.2c-2.3,0-4.2,1.9-4.2,4.2v70\nC0,504.7,1.9,506.6,4.2,506.6z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M4.3,427.1h238.8c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H4.3c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC0,425.1,1.9,427.1,4.3,427.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M100.1,408.9V419h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M100.1,339.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,408.9V419h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,339.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M252.8,427.1h154.3c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H252.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC248.5,425.1,250.4,427.1,252.8,427.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M264.1,408.9V419h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M264.1,339.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,408.9V419h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,339.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M416.8,427.1h238.9c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H416.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC412.5,425.1,414.4,427.1,416.8,427.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M428,408.9V419h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M428,339.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,408.9V419H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,339.8v-10.7H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M4.3,320h238.8c2.4,0,4.3-1.9,4.3-4.3v-97.2c0-2.4-1.9-4.3-4.3-4.3H4.3c-2.4,0-4.3,1.9-4.3,4.3v97.2\nC0,318.1,1.9,320,4.3,320z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M100.1,301.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M100.1,232.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,301.9v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,232.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M252.8,320h154.3c2.4,0,4.3-1.9,4.3-4.3v-97.2c0-2.4-1.9-4.3-4.3-4.3H252.8c-2.4,0-4.3,1.9-4.3,4.3v97.2\nC248.5,318.1,250.4,320,252.8,320z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M264.1,301.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M264.1,232.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,301.9v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,232.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M416.8,320h238.9c2.4,0,4.3-1.9,4.3-4.3v-97.2c0-2.4-1.9-4.3-4.3-4.3H416.8c-2.4,0-4.3,1.9-4.3,4.3v97.2\nC412.5,318.1,414.4,320,416.8,320z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M428,301.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M428,232.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,301.9v10.1H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,232.8v-10.7H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M4.3,213.1h238.8c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H4.3c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC0,211.2,1.9,213.1,4.3,213.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M100.1,195v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M100.1,125.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,195v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,125.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M252.8,213.1h154.3c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H252.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC248.5,211.2,250.4,213.1,252.8,213.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M264.1,195v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M264.1,125.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,195v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,125.8v-10.7h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M416.8,213.1h238.9c2.4,0,4.3-1.9,4.3-4.3v-97.4c0-2.4-1.9-4.3-4.3-4.3H416.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC412.5,211.2,414.4,213.1,416.8,213.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M428,195v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M428,125.8v-10.5h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,195v10.1H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,125.8v-10.7H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M4.3,106.1h238.8c2.4,0,4.3-1.9,4.3-4.3V4.4c0-2.4-1.9-4.3-4.3-4.3H4.3C1.9,0.1,0,2,0,4.4v97.4\nC0,104.2,1.9,106.1,4.3,106.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M100.1,87.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M100.1,18.8V8.3h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,87.9v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M231.9,18.8V8.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M252.8,106.1h154.3c2.4,0,4.3-1.9,4.3-4.3V4.4c0-2.4-1.9-4.3-4.3-4.3H252.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC248.5,104.2,250.4,106.1,252.8,106.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M264.1,87.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M264.1,18.8V8.3h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,87.9v10.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M395.9,18.8V8.1h-10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st0",
+        "d": "M416.8,106.1h238.9c2.4,0,4.3-1.9,4.3-4.3V4.4c0-2.4-1.9-4.3-4.3-4.3H416.8c-2.4,0-4.3,1.9-4.3,4.3v97.4\nC412.5,104.2,414.4,106.1,416.8,106.1z"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M428,87.9v10.1h10.8"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st2",
+        "d": "M428,18.8V8.3h10.6"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,87.9v10.1H549"
+      },
+      "children": []
+    },
+    {
+      "name": "path",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "class": "st1",
+        "d": "M559.8,18.8V8.1H549"
+      },
+      "children": []
+    }
+  ]
+}
